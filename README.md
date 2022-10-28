@@ -1,5 +1,5 @@
 # Model
-InterviewScripts
+ModelScripts
 
 The First script (1webserver.py) result is as below :
 ![image](https://user-images.githubusercontent.com/91181319/170550225-14000c41-0e42-4b61-a64e-c33f690252b1.png)
